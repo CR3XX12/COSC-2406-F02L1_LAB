@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\School\\Semester1\\COSC-2406-F02L1_LAB\\MASM1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7051C08-A6DC-4846-A98A-58E7FDD4F52D}|MASM1\\MASM1.vcxproj|D:\\School\\Semester1\\COSC-2406-F02L1_LAB\\MASM1\\MASM1\\Test.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A7051C08-A6DC-4846-A98A-58E7FDD4F52D}|MASM1\\MASM1.vcxproj|solutionrelative:MASM1\\Test.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.asm",
+              "DocumentMoniker": "D:\\School\\Semester1\\COSC-2406-F02L1_LAB\\MASM1\\MASM1\\Test.asm",
+              "RelativeDocumentMoniker": "MASM1\\Test.asm",
+              "ToolTip": "D:\\School\\Semester1\\COSC-2406-F02L1_LAB\\MASM1\\MASM1\\Test.asm",
+              "RelativeToolTip": "MASM1\\Test.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-06T21:41:39.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
